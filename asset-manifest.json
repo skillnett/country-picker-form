@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/country-picker-form/static/css/main.b51bb705.css",
-    "main.js": "/country-picker-form/static/js/main.e02e3419.js",
+    "main.css": "/country-picker-form/static/css/main.c8a2f7b2.css",
+    "main.js": "/country-picker-form/static/js/main.48459d16.js",
     "static/js/787.1df2d5f5.chunk.js": "/country-picker-form/static/js/787.1df2d5f5.chunk.js",
     "static/media/campton-book.ttf": "/country-picker-form/static/media/campton-book.92cbdd2e29f5bafb146c.ttf",
     "index.html": "/country-picker-form/index.html",
-    "main.b51bb705.css.map": "/country-picker-form/static/css/main.b51bb705.css.map",
-    "main.e02e3419.js.map": "/country-picker-form/static/js/main.e02e3419.js.map",
+    "main.c8a2f7b2.css.map": "/country-picker-form/static/css/main.c8a2f7b2.css.map",
+    "main.48459d16.js.map": "/country-picker-form/static/js/main.48459d16.js.map",
     "787.1df2d5f5.chunk.js.map": "/country-picker-form/static/js/787.1df2d5f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b51bb705.css",
-    "static/js/main.e02e3419.js"
+    "static/css/main.c8a2f7b2.css",
+    "static/js/main.48459d16.js"
   ]
 }
