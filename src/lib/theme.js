@@ -25,6 +25,9 @@ export const theme = extendTheme({
           bg: 'rgba(0, 28, 61, 0.08)',
           width: '33px',
           height: '18px',
+          _checked: {
+            bg: '#457DF1',
+          },
         },
         thumb: {
           width: '19px',
