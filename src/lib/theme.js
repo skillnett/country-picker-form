@@ -18,4 +18,19 @@ export const theme = extendTheme({
     body: "'campton-book', sans-serif",
     heading: "'campton-book', sans-serif",
   },
+  components: {
+    Switch: {
+      baseStyle: {
+        track: {
+          bg: 'rgba(0, 28, 61, 0.08)',
+          width: '33px',
+          height: '18px',
+        },
+        thumb: {
+          width: '19px',
+          height: '18px',
+        },
+      },
+    },
+  },
 });
