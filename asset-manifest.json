@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/country-picker-form/static/css/main.c8a2f7b2.css",
-    "main.js": "/country-picker-form/static/js/main.48459d16.js",
+    "main.js": "/country-picker-form/static/js/main.20073d63.js",
     "static/js/787.1df2d5f5.chunk.js": "/country-picker-form/static/js/787.1df2d5f5.chunk.js",
     "static/media/campton-book.ttf": "/country-picker-form/static/media/campton-book.92cbdd2e29f5bafb146c.ttf",
     "index.html": "/country-picker-form/index.html",
     "main.c8a2f7b2.css.map": "/country-picker-form/static/css/main.c8a2f7b2.css.map",
-    "main.48459d16.js.map": "/country-picker-form/static/js/main.48459d16.js.map",
+    "main.20073d63.js.map": "/country-picker-form/static/js/main.20073d63.js.map",
     "787.1df2d5f5.chunk.js.map": "/country-picker-form/static/js/787.1df2d5f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8a2f7b2.css",
-    "static/js/main.48459d16.js"
+    "static/js/main.20073d63.js"
   ]
 }
